@@ -8,9 +8,11 @@ C# | .NET Core | SQL Server | Azure DevOps
 
 ### Profile
 
-- 🇧🇷 011
+- 🇧🇷 011 - ZL
 - 💻 Software Developer
 - 🎓 FATEC - ADS
+- 🎓 ETEC - Administração
+- 🎓 ETEC - Desenvolvimento de Sistemas
 - 🦅 S.C.C.P
 - 🎸 Músico
 - 🍃 Lifestyle
