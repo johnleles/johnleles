@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**johnleles/johnleles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional jovem, entusiasta da Tecnologia da Informação, acadêmico de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São Paulo (FATEC-SP), formado no Ensino Médio Integrado ao Técnico em Administração e Técnico em Desenvolvimento de Sistemas pela Escola Técnica (ETEC) de Francisco Morato, com experiência ativa em gestão de projetos e freelancer com ênfase em desenvolvimento web.
 
-Here are some ideas to get you started:
+Stacks: C# | .NET Core | SQL Server | Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profile
+
+- 🇧🇷 011
+- 💻 Software Developer
+- 🎓 FATEC - ADS
+- 🦅 S.C.C.P
+- 🎸 Músico
+- 🍃 Lifestyle
+
+- Instagram: https://www.instagram.com/john.leles
+- Linkedin: https://www.linkedin.com/in/jwleles
