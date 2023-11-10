@@ -4,7 +4,7 @@ Sou um profissional jovem, entusiasta da Tecnologia da Informação, acadêmico 
 
 ### Stack's
 
-C# | .NET Core | SQL Server | Azure DevOps
+C# | .NET | SQL Server | Azure DevOps
 
 ### Profile
 
