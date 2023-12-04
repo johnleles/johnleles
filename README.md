@@ -11,7 +11,8 @@ Sou um profissional jovem, entusiasta da Tecnologia da Informação, acadêmico 
 
 ### Profile
 
-- 🇧🇷 011 - ZL
+- ♉️ 22y
+- 🇧🇷 011
 - 💻 Software Developer
 - 🎓 FATEC - ADS
 - 🎓 ETEC - Administração
@@ -19,7 +20,7 @@ Sou um profissional jovem, entusiasta da Tecnologia da Informação, acadêmico 
 - 🦅 S.C.C.P
 - 🎸 Músico
 - 🍃 Lifestyle
-
+- 
 ### Redes Sociais
 - Instagram: https://www.instagram.com/john.leles
 - Linkedin: https://www.linkedin.com/in/jwleles
