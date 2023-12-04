@@ -13,7 +13,7 @@ Sou um profissional jovem, entusiasta da Tecnologia da Informação, acadêmico 
 
 - ♉️ 22y
 - 🇧🇷 011
-- 💻 Software Developer
+- 👨🏻‍💻 Software Developer
 - 🎓 FATEC - ADS
 - 🎓 ETEC - Administração
 - 🎓 ETEC - Desenvolvimento de Sistemas
