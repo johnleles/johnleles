@@ -15,7 +15,7 @@ Acredito que a determinação é a base de qualquer trajetória de sucesso e que
 
 ### Profile
 
-- ♉️ 24y
+- ♉️ 25y
 - 🇧🇷 011
 - 👨🏻‍💻 Software Developer Pleno.
 - 🎓 FATEC - Análise e Desenvolvimento de Sistemas
