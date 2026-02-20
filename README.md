@@ -6,22 +6,22 @@ Acredito que a determinação é a base de qualquer trajetória de sucesso e que
 
 ### Principais Stack's
 
-- C#
+- Backend: C#
+- Frontend: Bootstrap / React
 - .NET Core / .NET Framework
-- SQL Server
-- Azure DevOps
+- Banco de Dados: SQL Server/ PostgreSQL
+- APIs REST
+- Arquitetura Limpa e Escalável
 
 ### Profile
 
 - ♉️ 24y
 - 🇧🇷 011
-- 👨🏻‍💻 Software Developer
+- 👨🏻‍💻 Software Developer Pleno.
 - 🎓 FATEC - Análise e Desenvolvimento de Sistemas
 - 🎓 ETEC - Administração
 - 🎓 ETEC - Desenvolvimento de Sistemas
-- 🦅 S.C.C.P
 - 🎸 Músico
-- 🍃 Lifestyle
   
 ### Redes Sociais
 - Instagram: https://www.instagram.com/john.leles
