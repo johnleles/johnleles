@@ -9,7 +9,7 @@ Acredito que a determinação é a base de qualquer trajetória de sucesso e que
 - Backend: C#
 - Frontend: Bootstrap / React
 - .NET Core / .NET Framework
-- Banco de Dados: SQL Server/ PostgreSQL
+- Banco de Dados: SQL Server / PostgreSQL
 - APIs REST
 - Arquitetura Limpa e Escalável
 
