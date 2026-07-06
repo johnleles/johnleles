@@ -19,8 +19,8 @@ Acredito que a determinação é a base de qualquer trajetória de sucesso e que
 - 🇧🇷 011
 - 👨🏻‍💻 Software Developer Pleno.
 - 🎓 FATEC-SP - Análise e Desenvolvimento de Sistemas
-- 🎓 ETEC de Francisco Morato - Desenvolvimento de Sistemas
-- 🎓 ETEC de Francisco Morato - Administração
+- 🎓 ETEC de Francisco Morato - Tec. Desenvolvimento de Sistemas
+- 🎓 ETEC de Francisco Morato - Tec. Administração
 - 🎸 Músico
   
 ### Redes Sociais
